@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 156704,
       "digest": null,
-      "download_count": 355,
+      "download_count": 356,
       "created_at": "2024-07-03T10:24:22Z",
       "updated_at": "2024-07-03T10:24:23Z",
       "browser_download_url": "https://github.com/isamert/scli/releases/download/v0.7.5/scli-v0.7.5.tar.gz"
